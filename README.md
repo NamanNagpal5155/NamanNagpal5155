@@ -1,4 +1,4 @@
-<h2 align="left">👋 Hi, I'm Naman Nagpal – a backend developer and passionate competitive programmer.<br>🎓 Currently pursuing my studies at Ajay Kumar Garg Engineering College.<br>💻 I enjoy building scalable backend systems and solving algorithmic challenges.<br>📫 Let's connect and build something awesome together!</h2>
+<h2 align="left">👋 Hi, I'm Naman Nagpal – a full stack developer (MERN) and passionate competitive programmer.<br>🎓 Currently pursuing my studies at Ajay Kumar Garg Engineering College.<br>💻 I enjoy building scalable full stack systems and solving algorithmic challenges.<br>📫 Let's connect and build something awesome together!</h2>
 
 ###
 
